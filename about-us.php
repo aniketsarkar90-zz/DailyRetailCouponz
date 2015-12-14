@@ -34,7 +34,7 @@ float: right;
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" type="text/css" href="css/mystyle.css">
 
-<title> About Us | DailyRetailCouponz</title>
+<title> About-Us | DailyRetailCouponz</title>
 
 </head>
 <body>
